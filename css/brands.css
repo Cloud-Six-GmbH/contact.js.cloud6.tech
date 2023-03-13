@@ -465,6 +465,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Phone */
+.button.button-phone {
+  color: #ffffff;
+  background-color: #fc5200;
+}
+.button.button-phone:hover,
+.button.button-phone:focus {
+  filter: brightness(90%);
+}
+
 /* Post.news */
 .button.button-post-news {
   color: #ffffff;
